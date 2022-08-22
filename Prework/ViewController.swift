@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipControl: UISegmentedControl!
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var billAmountTextField: UITextField!
+    let defaults = UserDefaults()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -25,7 +26,7 @@ class ViewController: UIViewController {
         let bill = Double(billAmountTextField.text!) ?? 0
         
         //get total tip by multiplying tip * tipPercentage
-        let tipPercentages = [0.12, 0.18, 0.2]
+        let tipPercentages = [0.15, 0.18, 0.2]
         let tip = bill * tipPercentages[tipControl.selectedSegmentIndex]
         let total = bill + tip
         
@@ -40,7 +41,7 @@ class ViewController: UIViewController {
         super.viewWillAppear(animated)
         print("view will appear")
         //good place to retrive default tip percentage from UserDeafaults and use it to update the tip amount
-    }
+        }
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)

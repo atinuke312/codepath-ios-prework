@@ -14,8 +14,8 @@
             filePath = "Prework/ViewController.swift"
             startingColumnNumber = "14"
             endingColumnNumber = "14"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -32,7 +32,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "24"
             endingLineNumber = "24"
-            landmarkName = "ViewController"
+            landmarkName = "SettingsViewController"
             landmarkType = "21">
          </BreakpointContent>
       </BreakpointProxy>

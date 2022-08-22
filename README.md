@@ -6,7 +6,7 @@ iOS tip calculator
 
 Submitted by: **Atinuke Ayangade**
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -22,15 +22,18 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
+
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+* [x] Dark mode setting
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/AcucpDH.gif)
+![x](https://im5.ezgif.com/tmp/ezgif-5-d7dbc925a7.gif)
+
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).

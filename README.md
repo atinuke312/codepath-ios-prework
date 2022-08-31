@@ -32,7 +32,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[x](https://media.giphy.com/media/3kUai2XumJVE2hnWOg/giphy.gif)
+[x]https://media.giphy.com/media/3kUai2XumJVE2hnWOg/giphy.gif
+
+<iframe src="https://giphy.com/embed/3kUai2XumJVE2hnWOg" width="234" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3kUai2XumJVE2hnWOg">via GIPHY</a></p>
 
 
 

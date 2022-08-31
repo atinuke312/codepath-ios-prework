@@ -34,8 +34,6 @@ Here's a walkthrough of implemented user stories:
 
 [x]https://media.giphy.com/media/3kUai2XumJVE2hnWOg/giphy.gif
 
-https://giphy.com/gifs/3kUai2XumJVE2hnWOg"
-
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).

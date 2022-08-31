@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![x](https://im5.ezgif.com/tmp/ezgif-5-d7dbc925a7.gif)
+[x](https://media.giphy.com/media/3kUai2XumJVE2hnWOg/giphy.gif)
 
 
 
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Atinuke Ayangade]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
